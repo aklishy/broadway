@@ -1,6 +1,8 @@
 body {text-align:center;}
-.header {font-family: Helvetica;
+h1{font-family: Helvetica;
 font-size: 70px;
 font-weight: bold;
-color:white;
-background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);}
+color:white;}
+
+.banner
+{background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);}
